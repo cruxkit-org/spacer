@@ -5,8 +5,8 @@
 	"repo": {
 		"org"           : "cruxkit",
 		"name"          : "spacer",
-		"version"       : "0.0.1",
-		"desc"          : "A lightweight, type-safe spacer component for declarative layout spacing with Tailwind CSS.",
+		"version"       : "0.0.2",
+		"desc"          : "A lightweight, type-safe spacer component for declarative layout spacing.",
 		"kw"            : ["crux", "kit", "spacer"],
 		"license"       : "MIT",
 		"issues"        : "https://github.com/cruxkit-org/spacer/issues",

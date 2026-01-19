@@ -19,7 +19,7 @@
      * Renders a visual spacer element to control layout spacing.
      *
      * @param props - Configuration for the spacer.
-     * @returns A hidden `<div>` that provides spacing via Tailwind utility classes.
+     * @returns A hidden `<div>` that provides spacing via mineui utility classes.
      *
      * @example
      * // Fixed 16px square spacer

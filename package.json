@@ -1,7 +1,7 @@
 {
 	"name"                             : "@cruxkit/spacer",
-	"version"                          : "0.0.1",
-	"description"                      : "A lightweight, type-safe spacer component for declarative layout spacing with Tailwind CSS.",
+	"version"                          : "0.0.2",
+	"description"                      : "A lightweight, type-safe spacer component for declarative layout spacing.",
 	"keywords"                         : ["crux", "kit", "spacer"],
 	"license"                          : "MIT",
 	"homepage"                         : "https://github.com/cruxkit-org/spacer#readme",
