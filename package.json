@@ -1,6 +1,6 @@
 {
 	"name"                             : "@cruxkit/spacer",
-	"version"                          : "0.0.2",
+	"version"                          : "0.0.3",
 	"description"                      : "A lightweight, type-safe spacer component for declarative layout spacing.",
 	"keywords"                         : ["crux", "kit", "spacer"],
 	"license"                          : "MIT",
